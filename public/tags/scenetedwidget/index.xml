@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellcome</title>
+    <link>https://example.com/tags/scenetedwidget/index.xml</link>
+    <description>Recent content on Wellcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ali Sarvghad</copyright>
+    <atom:link href="/tags/scenetedwidget/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visualizing Dimension Coverage</title>
+      <link>https://example.com/project/Scented-widget/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/Scented-widget/</guid>
+      <description>&lt;p&gt;The goal of this project was to support exploratory data analysis by tracking and visualizing the coverage of dimensions. We used scented widgets technique to embed coverage information into GUI elements. Our technique helped analysts to better understand the depth and breadth of their exploration and can formulate and evaluate more questions/hypotheses about data. Scented View also enabled analysts to have an extended coverage of dimensions&amp;rsquo; space.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

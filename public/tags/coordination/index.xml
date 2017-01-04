@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellcome</title>
+    <link>https://example.com/tags/coordination/index.xml</link>
+    <description>Recent content on Wellcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ali Sarvghad</copyright>
+    <atom:link href="/tags/coordination/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Footprint-II</title>
+      <link>https://example.com/project/FP-II/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/FP-II/</guid>
+      <description>&lt;p&gt;Footprint-II, a visual analysis history tool, was built to support coordination between analysts who worked in a different time/different place setting. The tool visualized the history of prior data explorations from three distinct angles: coverage of dimensions (e.g. Sales, Profit, Inventory Cost), coverage of data values, and branching structure of the analysis. Our evaluation of this technique showed significant improvement of analysis coordination. Users of the tool better identified prior coverage by other and showed a greater focus on uninvestigated aspects of data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

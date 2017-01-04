@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wellcome</title>
+    <link>https://example.com/tags/cscw/index.xml</link>
+    <description>Recent content on Wellcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ali Sarvghad</copyright>
+    <atom:link href="/tags/cscw/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CoSpaces</title>
+      <link>https://example.com/project/cospaces/</link>
+      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/cospaces/</guid>
+      <description>&lt;p&gt;CoSpaces was tailor-made for collaborative Visual Analytics on large interactive surfaces. The tool introduced a fluid workspace that can be used individually or in collaboration with other. Multiple workspaces could exist simultaneously. Each workspace, contained a history module that tracked and visualized the analysis history in the workspace. It also provided remote viewing of the analysis history of other co-existing workspaces. Each workspace could be fluidly panned, resized and rotate on the surface for the table. This design enabled users to easily potion or move their workspaces based on the dynamics of their collaboration at any time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

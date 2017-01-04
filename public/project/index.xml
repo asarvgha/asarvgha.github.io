@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-rsses on Wellcome</title>
+    <link>https://example.com/project/index.xml</link>
+    <description>Recent content in Project-rsses on Wellcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ali Sarvghad</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Avant-Garde</title>
+      <link>https://example.com/project/avantGarde/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/avantGarde/</guid>
+      <description>&lt;p&gt;Avant-Garde is an online platform for multi-faceted visual analysis of HIV/AIDS data. This tool enables clinicians to explore heterogeneous HIV/AIDS data to understand the phylogenetic, demographic, geographic and temporal characteristics and relationships in data. Various coordinated views represent data from different angles. Brushing-and-linking and dynamic filtering enables users to quickly discover the hidden relationships in data. This research a collaboration between faculties of Computer Science and Engineering (CSE) and Medicine at the University of California, San Diego.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Footprint-II</title>
+      <link>https://example.com/project/FP-II/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/FP-II/</guid>
+      <description>&lt;p&gt;Footprint-II, a visual analysis history tool, was built to support coordination between analysts who worked in a different time/different place setting. The tool visualized the history of prior data explorations from three distinct angles: coverage of dimensions (e.g. Sales, Profit, Inventory Cost), coverage of data values, and branching structure of the analysis. Our evaluation of this technique showed significant improvement of analysis coordination. Users of the tool better identified prior coverage by other and showed a greater focus on uninvestigated aspects of data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Dimension Coverage</title>
+      <link>https://example.com/project/Scented-widget/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/Scented-widget/</guid>
+      <description>&lt;p&gt;The goal of this project was to support exploratory data analysis by tracking and visualizing the coverage of dimensions. We used scented widgets technique to embed coverage information into GUI elements. Our technique helped analysts to better understand the depth and breadth of their exploration and can formulate and evaluate more questions/hypotheses about data. Scented View also enabled analysts to have an extended coverage of dimensions&amp;rsquo; space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Schedule Changes</title>
+      <link>https://example.com/project/Actenum/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/Actenum/</guid>
+      <description>&lt;p&gt;In oil and gas industry, upstream operations have large complex schedules. Creating and maintain these large schedules requires expertise and tool support. The interconnected nature of many activities makes changing/updating/optimizing schedules a sensitive task. For instance, a small change in a single activity duration can large impacts on schedule duration and operational costs. In this project, we designed a visual solution to assist schedulers in understanding the identity (what changed) and magnitude (the effect size) on a schedule from different angles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Footprint-I</title>
+      <link>https://example.com/project/FP-I/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/FP-I/</guid>
+      <description>&lt;p&gt;Footprint-II, a visual analysis history tool, was built to support coordination between analysts who worked in a different time/different place setting. The tool visualized the history of prior data explorations from three distinct angles: coverage of dimensions (e.g. Sales, Profit, Inventory Cost), coverage of data values, and branching structure of the analysis. Our evaluation of this technique showed significant improvement of analysis coordination. Users of the tool better identified prior coverage by other and showed a greater focus on uninvestigated aspects of data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CoSpaces</title>
+      <link>https://example.com/project/cospaces/</link>
+      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/cospaces/</guid>
+      <description>&lt;p&gt;CoSpaces was tailor-made for collaborative Visual Analytics on large interactive surfaces. The tool introduced a fluid workspace that can be used individually or in collaboration with other. Multiple workspaces could exist simultaneously. Each workspace, contained a history module that tracked and visualized the analysis history in the workspace. It also provided remote viewing of the analysis history of other co-existing workspaces. Each workspace could be fluidly panned, resized and rotate on the surface for the table. This design enabled users to easily potion or move their workspaces based on the dynamics of their collaboration at any time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

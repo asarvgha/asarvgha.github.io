@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication-rsses on Wellcome</title>
+    <link>https://example.com/publication/index.xml</link>
+    <description>Recent content in Publication-rsses on Wellcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Ali Sarvghad</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visulizing Dimension Coverage to Support Exploratory Data Analysis</title>
+      <link>https://example.com/publication/scented_widget_for_dimeson_coverage/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/scented_widget_for_dimeson_coverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting analysis history to support collaborative data analysis</title>
+      <link>https://example.com/publication/footprint-2-supporting-coordination/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/footprint-2-supporting-coordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting history to reduce interaction costs in collaborative analysis</title>
+      <link>https://example.com/publication/footprint-2-interaction-cost/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/footprint-2-interaction-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observation of Record-Keeping in Co-located Collaborative Analysis</title>
+      <link>https://example.com/publication/observations-of-record-keeping/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/observations-of-record-keeping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoSpaces: Workspaces to Support Co-located Collaborative Visual Analytics</title>
+      <link>https://example.com/publication/cospaces/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/cospaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note Taking in Co-located Collaborative Visual Analytics: Analysis of an Observational Study</title>
+      <link>https://example.com/publication/Note-Taking-in-Co-located-Collaborative-Visual-Analytics/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/Note-Taking-in-Co-located-Collaborative-Visual-Analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A closer look at note taking in the co-located collaborative visual analytics process</title>
+      <link>https://example.com/publication/closer-look-at-note-taking/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/closer-look-at-note-taking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History tools for collaborative visualization.</title>
+      <link>https://example.com/publication/history-tools-for-collaborative-visualization/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/history-tools-for-collaborative-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of notes in co-located collaborative visualization.</title>
+      <link>https://example.com/publication/roles-of-notes/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/roles-of-notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
